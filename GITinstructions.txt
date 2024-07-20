@@ -1,0 +1,17 @@
+GIT
+1.Create your own directory locally using mkdir 
+2.go to that directory using cd
+3.clone the repository using git clone and copiedURL
+4.go to the repository using cd 
+5.use git branch cmd to check in which branch you're in
+6.To Switch out of main branch use git checkout -b branchname
+7.Crosscheck the branch name again which is being highlighted when you use git branch cmd
+8.Create files which you want in your branch using vieditor/ cat cmd
+9.Check the status using git status command
+10. Use git add filename command to add the file into version control
+11.Crosscheck using git status if the added file is under version control
+12.Use git commit -m "message" command 
+13.Use git push origin branchname command to push the created branch to the repository where it has been originated.
+
+
+
